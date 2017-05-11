@@ -24,7 +24,26 @@ body {
     font-feature-settings: "kern" 1;
     font-kerning: normal;
 }
+/*LINKS*/
+/* Unvisited */
+a:link {
+    color: #00a50b;
+}
 
+/*visited link*/
+a:visited {
+    color: green;
+}
+
+/*mouse over link*/
+a:hover {
+    color: #139ca5;
+}
+
+/*selected link*/
+a:active {
+    color: blue;
+}
 
 
 /**

@@ -2,4 +2,4 @@
 layout: default
 permalink: /programs/
 ---
-<p>woah, it's a <a href="/calculator">calculator</a></p>
+<p>woah, it's a <a href="/programs/calculator">calculator</a></p>

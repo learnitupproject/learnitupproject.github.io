@@ -2,7 +2,6 @@
 layout: default
 ---
 <html> 
-    <title>Calculator - DaleProjects</title>
-<iframe src="https://trinket.io/embed/python/33f1358bed?toggleCode=true&runOption=console&start=result" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0"></iframe>
+    <iframe src="https://trinket.io/embed/python/33f1358bed?outputOnly=true&runOption=run" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
     <p>Go <a href="daleprojects.github.io">back</a></p>
 </html> 

@@ -6,7 +6,7 @@ permalink: /
 <div class="home">
 
   <h1 class="page-heading">Welcome</h1>
-
+  <p><a href="/programs">Programs</a>     <a href="/games">Games</a>     <a href="/about">About</a></p>
 <!--
   <ul class="post-list">
     {% for post in site.posts %}

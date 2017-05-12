@@ -4,4 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Work in progress
+<p>This is our about to pages.</p>
+<p>We will add to this later.</p>

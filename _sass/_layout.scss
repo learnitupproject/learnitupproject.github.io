@@ -19,7 +19,9 @@
     margin-bottom: 0;
     float: left;
 
-    &,
+    &:link {
+        color: #ffffff;
+    }
     &:visited {
         color: #ffffff;
     }

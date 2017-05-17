@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Programs
+title: $programs
 permalink: /programs/
 ---
 <ul>

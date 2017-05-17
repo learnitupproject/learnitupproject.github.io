@@ -5,8 +5,16 @@ permalink: /
 
 <div class="home">
 
-  <h1 class="page-heading">Welcome</h1>
-  <p><a href="/programs">Programs</a>     <a href="/games">Games</a>     <a href="/about">About</a></p>
+  <h1 class="page-heading">Welcome to DaleProjects</h1>
+  <p>Here are the subpages of our website:</p>         
+  <ul>
+  <li>View our <b>useful</b> <a href="/programs">programs</a>.</li>
+  <li>Play our <b>fun</b> <a href="/games">games</a>.</li>
+  <li>Learn <b>more</b>  <a href="/about">about</a> us.</li>
+  </ul>
+
+
+
 <!--
   <ul class="post-list">
     {% for post in site.posts %}

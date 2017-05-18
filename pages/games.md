@@ -1,5 +1,6 @@
 ---
 layout: default
+title: $games
 permalink: /games/
 ---
 <h1>Games</h1>

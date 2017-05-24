@@ -5,7 +5,7 @@ permalink: /
 
 <div class="home">
 
-  <h1 class="page-heading">Welcome to DaleProjects</h1>
+  <h1 class="page-heading">>Welcome to DaleProjects</h1>
   <p>Here are the subpages of our website:</p>         
   <ul>
   <li>View our <b>useful</b> <a href="/programs">programs</a>.</li>

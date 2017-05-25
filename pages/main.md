@@ -13,7 +13,7 @@ permalink: /
   <li>Learn <b>more</b>  <a href="/about">about</a> us.</li>
   </ul>
 
-
+<a href="https://daleprojects.github.io/secret/" class="gaster">.</a>
 
 <!--
   <ul class="post-list">

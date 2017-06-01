@@ -30,6 +30,7 @@ body {
 /* Unvisited */
 a:link {
     color: #00a50b;
+    text-decoration: none;
 }
 
 /*visited link*/
@@ -40,7 +41,6 @@ a:visited {
 /*mouse over link*/
 a:hover {
     color: #139ca5;
-    text-decoration: none
 }
 
 /*selected link*/

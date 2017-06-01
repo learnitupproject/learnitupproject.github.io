@@ -1,6 +1,6 @@
 ---
 layout: page
-title: $programs
+title: Programs
 permalink: /programs/
 ---
   <header class="post-header">

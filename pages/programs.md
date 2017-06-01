@@ -13,7 +13,9 @@ permalink: /programs/
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 </ul>
-<h1>Games</h1>
+  <header class="post-header">
+    <h1 class="post-title">Games</h1>
+  </header>
 <p>Here are the following games that you can play:</p>
 <ul>
 <li><a href="/games/number/">Number games</a></li>

@@ -29,7 +29,7 @@ body {
 /*LINKS*/
 /* Unvisited */
 a:link {
-    color: #00a50b;
+    color: blue;
     text-decoration: none;
 }
 
@@ -40,13 +40,12 @@ a:visited {
 
 /*mouse over link*/
 a:hover {
-    color: #139ca5;
+    color: purple;
 }
 
 /*selected link*/
 a:active {
     color: blue;
-    text-decoration: none
 }
 
 

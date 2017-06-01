@@ -8,7 +8,7 @@ permalink: /
   <h1 class="page-heading">Welcome to DaleProjects!</h1>
   <p>Here are the subpages of our website:</p>         
   <ul>
-  <li>David's<b>PYTHON</b> <a href="/programs">programs</a></li>
+  <li>David's <b>Python</b> <a href="/programs">programs</a></li>
   <li>Learn <b>more</b>  <a href="/about">about</a> us</li>
   </ul>
 

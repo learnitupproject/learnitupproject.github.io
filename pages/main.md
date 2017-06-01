@@ -5,12 +5,11 @@ permalink: /
 
 <div class="home">
 
-  <h1 class="page-heading">>Welcome to DaleProjects</h1>
+  <h1 class="page-heading">Welcome to DaleProjects!</h1>
   <p>Here are the subpages of our website:</p>         
   <ul>
-  <li>View our <b>useful</b> <a href="/programs">programs</a>.</li>
-  <li>Play our <b>fun</b> <a href="/games">games</a>.</li>
-  <li>Learn <b>more</b>  <a href="/about">about</a> us.</li>
+  <li>David's<b>PYTHON</b> <a href="/programs">programs</a></li>
+  <li>Learn <b>more</b>  <a href="/about">about</a> us</li>
   </ul>
 
 <a href="https://daleprojects.github.io/secret/" class="gaster">.</a>

@@ -10,8 +10,6 @@ permalink: /programs/
 <ul>
 <li><a href="/programs/calculator">Calculator</a></li>
 <li><a href="/programs/dice">Dice Roller</a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
 </ul>
   <header class="post-header">
     <h1 class="post-title">Games</h1>
@@ -20,7 +18,5 @@ permalink: /programs/
 <ul>
 <li><a href="/games/number/">Number games</a></li>
 <li><a href="/games/battle/">Battle Simulator</a></li>
-<li></li>
-<li></li>
 </ul>
 

@@ -9,7 +9,7 @@ permalink: /
   <p>Here are the subpages of our website:</p>         
   <ul>
   <li>David's Python <b><a href="/programs">programs</a></b></li>
-  <li>Learn more<b><a href="/about">about</a> us</b></li>
+  <li>Learn more <b><a href="/about">about</a> us</b></li>
   </ul>
 
 <a href="https://daleprojects.github.io/secret/" class="gaster">.</a>

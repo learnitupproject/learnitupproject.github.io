@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Us
+title: About us
 permalink: /about/
 ---
   <header class="post-header">
@@ -17,5 +17,9 @@ permalink: /about/
 <p>I love video games and technology. I know how to code in Python, a little bit of HTML, and very little CSS.</p>
 <p>I have built my own computer and I like a lot of games like TF2.</p>
 <h1>About Kyle</h1>
-<p>I too love video games and technology. </p>
-<p>Thank you for viewing our webpage!</p>
+<p>Hello! My name is Kyle and I also enjoy video games and technology. I know HTML and CSS. My favorite video games include Pokémon and FPS's</p>
+<p>
+
+Thank you for viewing our webpage!
+
+</p>

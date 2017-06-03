@@ -3,7 +3,6 @@ layout: page
 title: Programs
 permalink: /programs/
 ---
-<b>
   <header class="post-header">
     <h1 class="post-title">Programs</h1>
   </header>
@@ -21,4 +20,3 @@ permalink: /programs/
 <li><a href="/games/number/">Number games</a></li>
 <li><a href="/games/battle/">Battle Simulator</a></li>
 </ul>
-</b>

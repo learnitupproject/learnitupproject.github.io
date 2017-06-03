@@ -3,6 +3,11 @@ layout: page
 title: About us
 permalink: /about/
 ---
+<style>
+h1.david {
+color: #d800ff;
+}
+</style>
   <header class="post-header">
     <h1 class="post-title">About Us</h1>
   </header>

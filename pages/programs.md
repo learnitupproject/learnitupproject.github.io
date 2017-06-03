@@ -7,7 +7,6 @@ permalink: /programs/
     <h1 class="post-title">Programs</h1>
   </header>
 <p>Here are the following programs that you can use:</p>
-<p>All programs are written in Python</p>
 <ul>
 <li><a href="/programs/calculator">Calculator</a></li>
 <li><a href="/programs/dice">Dice Roller</a></li>

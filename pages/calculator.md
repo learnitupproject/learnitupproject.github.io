@@ -4,5 +4,5 @@ permalink: /programs/calculator/
 ---
 <html> 
     <iframe src="https://trinket.io/embed/python/33f1358bed?toggleCode=true&runOption=run&start=result" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-    <p>You can <a href="/programs/">go back</a> if you wanna.</p>
+    <p><b>You can <a href="/programs/">go back</a> if you wanna.</b></p>
 </html> 

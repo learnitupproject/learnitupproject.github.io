@@ -8,8 +8,8 @@ permalink: /
   <h1 class="page-heading">Welcome to DaleProjects!</h1>
   <p>Here are the subpages of our website:</p>         
   <ul>
-  <li>David's <b>Python</b> <a href="/programs">programs</a></li>
-  <li>Learn <b>more</b>  <a href="/about">about</a> us</li>
+  <li>David's Python <b><a href="/programs">programs</a></b></li>
+  <li>Learn more<b><a href="/about">about</a> us</b></li>
   </ul>
 
 <a href="https://daleprojects.github.io/secret/" class="gaster">.</a>

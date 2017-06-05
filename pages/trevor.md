@@ -4,6 +4,7 @@ permalink: /trevor/
 title: Trevor's PC Build
 ---
 <a href="https://pcpartpicker.com/list/jMXBpb">PCPartPicker part list</a> / <a href="https://pcpartpicker.com/list/jMXBpb/by_merchant/">Price breakdown by merchant</a>
+<style background-color: black>
 <table class="pcpp-part-list">
   <thead>
     <tr>
@@ -103,3 +104,4 @@ title: Trevor's PC Build
     </tr>
   </tbody>
 </table>
+</style>

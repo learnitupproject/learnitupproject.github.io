@@ -3,7 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
-<h1>Hello<h1>
+<style>
+  ul {
+    color: ##ffffff
+  }
+ </style>
+<b><h1>Hello<h1></b>
 <ul>
   <li>LearnItUP is a project looking to verify claims that recollection can be improved during REM cycles.</li>
   <li>This website is designed to contain potential sleep aid audio files that can help memory.</li>

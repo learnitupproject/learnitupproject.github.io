@@ -5,14 +5,10 @@ permalink: /
 
 <div class="home">
 
-  <h1 class="page-heading">Welcome to DaleProjects!</h1>
+  <h1 class="page-heading">Welcome to LearnItUp</h1>
+  <p>This site is to keep and organize </p>     
   <p>Here are the subpages of our website:</p>         
-  <ul>
-  <li>David's Python <b><a href="/programs">programs</a></b></li>
-  <li>Learn more <b><a href="/about">about</a> us</b></li>
-  </ul>
-
-<a href="https://daleprojects.github.io/secret/" class="gaster">.</a>
+<h1 class="page-heading"><a href="/pages/research">About our research.</a></h1>
 
 <!--
   <ul class="post-list">

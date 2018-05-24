@@ -1,3 +1,7 @@
+---
+layout: default
+permalink: /tts/
+---
 <html>
 <head><title>TTS - Text-To-Speech</title></head>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>

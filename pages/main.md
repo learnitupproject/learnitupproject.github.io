@@ -5,7 +5,7 @@ permalink: /
 <style>
   h1 {
     text-align: center;
-    font-size: 100px;
+    font-size: xx-large;
   }
   ul {
     color: #ffffff;

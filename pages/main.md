@@ -15,8 +15,10 @@ permalink: /
 
   <b><h1 class="page-heading">Welcome to LearnItUp.</h1></b>
   <ul>
-  <li>LearnItUP is a project looking to verify claims that recollection can be improved during REM cycles.</li>
+  <li>LearnItUP is a project looking to verify claims that recollection can be improved during sleep cycles.</li>
   <li>This website is designed to contain potential sleep aid audio files that can help memory.</li>
   <li>The subjects avaliable are based on the subjects we have this school year.</li>
 </ul>
-<h1 class="page-heading">About our research:</h1>
+<b><h1 class="page-heading">More information:</h1></b>
+<!-- Google Slideshow -->
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRJL0vrB3Id5Dk6c4irvJMo-jGK4ufCPKgZhq4nnAS4DRlh9oLppdvSduVe7ap42AHTJPTXvFE18mp4/embed?start=false&loop=true&delayms=30000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

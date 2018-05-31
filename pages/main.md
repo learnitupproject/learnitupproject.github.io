@@ -10,6 +10,9 @@ permalink: /
   ul {
     color: #ffffff;
   }
+  iframe {
+    align: center;
+  }
 </style>
 <div class="home">
 

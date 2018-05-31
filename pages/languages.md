@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Languages
-permalink: /languages/
+permalink: https://learnitupproject.github.io/languages/
 ---
 <style>
   h1 {

@@ -24,4 +24,4 @@ permalink: /
 </ul>
 <b><h1 class="page-heading">More information:</h1></b>
 <!-- Google Slideshow -->
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRJL0vrB3Id5Dk6c4irvJMo-jGK4ufCPKgZhq4nnAS4DRlh9oLppdvSduVe7ap42AHTJPTXvFE18mp4/embed?start=false&loop=true&delayms=30000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" text-align="center"></iframe>
+<div style="margin: 0px auto; overflow: hidden; text-align: center;"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRJL0vrB3Id5Dk6c4irvJMo-jGK4ufCPKgZhq4nnAS4DRlh9oLppdvSduVe7ap42AHTJPTXvFE18mp4/embed?start=false&loop=true&delayms=30000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>

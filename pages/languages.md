@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Languages
 permalink: https://learnitupproject.github.io/languages/
 ---

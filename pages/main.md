@@ -8,7 +8,7 @@ permalink: /
     font-size: 100px;
   }
   ul {
-    color: ##ffffff;
+    color: #ffffff;
   }
 </style>
 <div class="home">

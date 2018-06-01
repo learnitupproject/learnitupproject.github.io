@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Science
-permalink: https://learnitupproject.github.io/science/
+permalink: /science/
 ---
 <style>
   h1 {
